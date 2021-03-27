@@ -260,7 +260,7 @@ img {
     -o-border-radius: 0.25rem;
 }
 
-a#tag-wp {
+.card-left a#tag-wp {
     background-color: var(--footerBgColor);
     color: var(--tagWp);
     display: inline-block;
@@ -274,7 +274,7 @@ a#tag-wp {
     -o-border-radius: 0.25rem;
 }
 
-a#tag-wp:hover {
+.card-left a#tag-wp:hover {
     opacity: 0.6;
 }
 
