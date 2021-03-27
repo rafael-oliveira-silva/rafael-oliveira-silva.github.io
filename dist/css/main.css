@@ -260,7 +260,7 @@ img {
     -o-border-radius: 0.25rem;
 }
 
-#tag-wp {
+a#tag-wp {
     background-color: var(--footerBgColor);
     color: var(--tagWp);
     display: inline-block;
@@ -274,7 +274,7 @@ img {
     -o-border-radius: 0.25rem;
 }
 
-#tag-wp:hover {
+a#tag-wp:hover {
     opacity: 0.6;
 }
 
